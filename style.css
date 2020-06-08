@@ -1,3 +1,19 @@
 body{
-	background-color: black;
+	color: white;
+	background-image: linear-gradient(to right, black , darkgrey);
+}
+h2{
+	border-bottom: 1px solid;
+}
+section{
+	width: 800px;
+  	border: 15px solid white;
+  	padding: 50px;
+  	margin: 20px;
+  	border-style: double;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
